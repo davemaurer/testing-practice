@@ -34,7 +34,7 @@ class ResumesControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should update resume" do
-    patch resume_url(@resume), params: { resume: { city: @resume.city, email: @resume.email, name: @resume.name, phone: @resume.phone, state: @resume.state, street: @resume.street, zip: @resume.zip } }
+    patch resume_url(@resume), params: { resume: { city: "New City", email: @resume.email, name: "Another Name", phone: 5552221111, state: @resume.state, street: @resume.street, zip: @resume.zip } }
     assert_redirected_to resume_url(@resume)
   end
 
