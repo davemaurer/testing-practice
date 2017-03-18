@@ -1,19 +1,19 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: MyString
-  phone: 1
-  email: MyString
-  street: MyString
-  city: MyString
-  state: MyString
-  zip: 1
+  name: Jon Connor
+  phone: 3035550000
+  email: terminatorhator@humansfirst.com
+  street: 123 Lane
+  city: New Earth
+  state: Colorado
+  zip: 80000
 
 two:
-  name: MyString
-  phone: 1
-  email: MyString
-  street: MyString
-  city: MyString
-  state: MyString
-  zip: 1
+  name: Mr Terminator
+  phone: 0000000000
+  email: metalman@humansmustdie.com
+  street: cargo box 3
+  city: skynet
+  state: hub3
+  zip: 00001
