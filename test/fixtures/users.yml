@@ -3,21 +3,17 @@
 one:
   name: MyString
   email: MyString
-  phone: 
-  limit: MyString
-  8: MyString
+  phone: 5551112222
   state: MyString
   street: MyString
-  zip: 1
+  zip: 80000
   summary: MyText
 
 two:
   name: MyString
   email: MyString
-  phone: 
-  limit: MyString
-  8: MyString
+  phone: 5552223333
   state: MyString
   street: MyString
-  zip: 1
+  zip: 10000
   summary: MyText
